@@ -1,1 +1,6 @@
-Implementation of TOTP authentication using RFC4226 (https://datatracker.ietf.org/doc/html/rfc4226) and RFC6238 (https://datatracker.ietf.org/doc/html/rfc6238)
+TOTP generator in C
+=======
+
+A simple implementation of a TOTP generator using:
+* [RFC4226](https://tools.ietf.org/html/rfc4226)
+* [RFC6238](https://tools.ietf.org/html/rfc6238)
